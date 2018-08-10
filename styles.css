@@ -1,0 +1,35 @@
+body {
+    border: 1px solid grey;
+    max-width: 320px;
+}
+
+.title {
+    padding-left: 10px;
+}
+
+img {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    padding: 10px;
+}
+
+.info {
+    border: 1px solid grey;
+    padding: 10px;
+    margin: 0 10px;
+}
+
+.funFact {
+    font-style: italic;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li span {
+    font-weight: bold;
+}
